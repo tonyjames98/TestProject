@@ -22,6 +22,7 @@ public class LoginTest {
 		//driver.get("http://gmail.com");
 		//driver.findElement(By.id("Email")).sendKeys("test@test.com");
 		//driver.findElement(By.id("Passwd")).sendKeys("pass");
+		// test change
 	}
 	
 	@AfterSuite
